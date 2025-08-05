@@ -9,9 +9,9 @@ Este é um parágrafo de texto. Podemos usar **negrito** utilizando ** ** e *it�
 
 Para inserir links utilize:
 
-- [WikiTrivia](https://wikitrivia.tomjwatson.com/)
+->[WikiTrivia](https://wikitrivia.tomjwatson.com/)
 
-- ![Racha-Cuca](https://site.com/logo.png)
+->![Racha-Cuca](https://rachacuca.com.br/)
 
 
 Para código inline, use `print("Olá Mundo!")`.
