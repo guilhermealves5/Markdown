@@ -1,6 +1,6 @@
 # Título Principal do Artigo
 
-Este é um parágrafo de texto. Podemos usar **negrito** e *itálico* para destacar palavras.
+Este é um parágrafo de texto. Podemos usar **negrito** utilizando (>** **) e *itálico* para destacar palavras.
 
 ## Subtítulo
 
@@ -16,6 +16,6 @@ Para código inline, use `print("Olá Mundo!")`.
 
 ```python
 
-def saudacao():
+def bemvindo():
 
-print("Olá, Markdown!")
+print("Bem Vindos ao meu arquivo Markdown!!")
