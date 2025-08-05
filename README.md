@@ -5,9 +5,7 @@ Este é um parágrafo de texto. Podemos usar **negrito** utilizando ** ** e *it�
 ## Como fazer Listas em MD
 
 - Utilizando "-"
--
-- Subitem A
-- Subitem B
+- Ou "*"
 
 Para código inline, use `print("Olá Mundo!")`.
 
