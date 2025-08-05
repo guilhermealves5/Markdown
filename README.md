@@ -1,12 +1,12 @@
-# Título Principal do Artigo
+# Arquivo MD
 
-Este é um parágrafo de texto. Podemos usar **negrito** utilizando (>** **) e *itálico* para destacar palavras.
+Este é um parágrafo de texto. Podemos usar **negrito** utilizando ** ** e *itálico* utilizando * * para destacar palavras.
 
-## Subtítulo
+## Como fazer Listas em MD
 
-* Item de lista 1
+* Utilizando "-"
 
-* Item de lista 2
+* 
 
 * Subitem A
 
