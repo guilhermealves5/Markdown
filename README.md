@@ -4,13 +4,10 @@ Este é um parágrafo de texto. Podemos usar **negrito** utilizando ** ** e *it�
 
 ## Como fazer Listas em MD
 
-* Utilizando "-"
-
-* 
-
-* Subitem A
-
-* Subitem B
+- Utilizando "-"
+-
+- Subitem A
+- Subitem B
 
 Para código inline, use `print("Olá Mundo!")`.
 
